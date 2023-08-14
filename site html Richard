@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+
+    
+    <title>Richard Rodrigues perfil</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 3;
+        }
+        header {
+
+
+            background-color: #666;
+            color: white;
+            text-align: center;
+            padding: 6em;
+            background-image: url('https://miro.medium.com/v2/resize:fit:2000/1*oONMeqyrUr7PcX2p0d_neA.png');
+            
+        }
+        nav {
+            background-color: #444;
+            color: white;
+            padding: 0,5em;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        nav li {
+            margin: 0 1em;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        main {
+            background-image: url('https://miro.medium.com/v2/resize:fit:2000/1*oONMeqyrUr7PcX2p0d_neA.png');
+            color:white;
+            .cor-diferente {
+            color: white; /* Cor diferente apenas para esse parágrafo */
+        }
+            padding: 18em;
+
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1
+                );
+            
+
+        }
+        footer {
+            text-align: center;
+            background-color: #444;
+            color: white;
+            padding: 2em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <img src="https://media.licdn.com/dms/image/D4D03AQGxLETlvg2W1Q/profile-displayphoto-shrink_200_200/0/1692016706553?e=1697673600&v=beta&t=PURaPka4CrcYHIs8C6dXR_ryllVlWa4DQOldbZiCQ6c">
+
+    <h1>Richard Rodrigues<br>Estudante de analise e desenvolvimento de sistemas.</h1>
+    <p>Procurando estagio ou emprego na area.</p>
+</header>
+
+<nav>
+    <ul>
+        <li><a href="https://richard-dev.000webhostapp.com/">Início</a></li>
+        <li><a href="https://richard-dev.000webhostapp.com/certificados">Certificados</a></li>
+        <li><a href="https://github.com/Richard0100">Github</a></li>
+        <li><a href="https://www.linkedin.com/in/richard-rodrigues-157baa271/">Linkedin</a></li>
+        <li><a href="#">Contato</a></li>
+        <li><a href="https://web.whatsapp.com/send?phone=5531982316919">whatsapp</a></li>
+    </ul>
+</nav>
+
+<main>
+    <h2>Cursando o segundo periodo de analise e desenvolvimento de sistemas</h2>
+    <p class="cor-diferente" >Conhecimentos:<br>
+    INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C; ARQUITETURA DE COMPUTADORES; INTRODUÇÃO À SEGURANÇA DA INFORMAÇÃO; FUNDAMENTOS DE REDES DE COMPUTADORES; PLANEJAMENTO DE CARREIRA E SUCESSO PROFISSIONAL; PENSAMENTO COMPUTACIONAL; PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO EM PYTHON.</p>
+</main>
+
+<footer>
+    </script>
+    <p>&copy; 2023 Richard Rodrigues perfil. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
